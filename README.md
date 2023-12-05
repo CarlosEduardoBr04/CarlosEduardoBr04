@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section-header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section-header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&random=false&width=500&lines=Ol%C3%A1%2C+Seja+Bem+Vindo+ao+Meu+Perfil;Eu+sou+Eduardo%2C+mas+pode+me+chamar+de+Kdu!+)](https://git.io/typing-svg)
 
@@ -38,7 +38,7 @@ Vamos juntos construir algo incrível! 🌟
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosEduardoBr04&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <footer>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=footer" />
 </footer>
 
 
