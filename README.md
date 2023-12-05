@@ -36,3 +36,9 @@
 Vamos juntos construir algo incrível! 🌟
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosEduardoBr04&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<footer>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer" />
+</footer>
+
+
