@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section-header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+seja+Bem+Vindo+ao+meu+perfil;Eu+sou+Eduardo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&random=false&width=500&lines=Ol%C3%A1%2C+Seja+Bem+Vindo+ao+Meu+Perfil;Eu+sou+Eduardo%2C+mas+pode+me+chamar+de+Kdu!+)](https://git.io/typing-svg)
 
-
-### Oi, eu sou Eduardo, mas pode me chamar de Kdu!  👋🏼😊
+### Olá, eu sou Eduardo, mas pode me chamar de Kdu!  👋🏼😊
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kdu_almeida06/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
