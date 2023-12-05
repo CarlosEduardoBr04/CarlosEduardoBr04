@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section-header"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+seja+Bem+Vindo+ao+meu+perfil;Eu+sou+Eduardo)](https://git.io/typing-svg)
+
+
 ### Oi, eu sou Eduardo, mas pode me chamar de Kdu!  👋🏼😊
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kdu_almeida06/)
