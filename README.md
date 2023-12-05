@@ -1,8 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section-header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&random=false&width=500&lines=Ol%C3%A1%2C+Seja+Bem+Vindo+ao+Meu+Perfil;Eu+sou+Eduardo%2C+mas+pode+me+chamar+de+Kdu!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=7000&pause=1000&random=false&width=500&lines=Hello%2C+welcome+to+my+profile!;+I'm+Eduardo%2C+but+you+can+call+me+Kdu!;I'm+from+Brazil+and+love+technologies.)](https://git.io/typing-svg)
 
-### Olá, eu sou Eduardo, mas pode me chamar de Kdu!  👋🏼😊
+Hello, welcome to my profile!
+
+### Hello, I'm Eduardo, but you can call me Kdu! 👋🏼😊
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kdu_almeida06/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -12,7 +14,7 @@
 ![CarlosEduardoBr04 GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoBr04&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoBr04&layout=compact)
 
-### Tecnologias que Possuo Conhecimento
+### Technologies I Have Knowledge In:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,13 +29,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-👋 Olá, sou Eduardo, também conhecido como Kdu! Estou mergulhado no universo da tecnologia, cursando Desenvolvimento de Software de Multiplataforma na faculdade e apaixonado por cada linha de código que escrevo.
+👋 Hello, I'm Eduardo, also known as Kdu! I'm immersed in the technology universe, currently studying Multiplatform Software Development at college, and I'm passionate about every line of code I write.
 
-💡 Acredito firmemente que o aprendizado contínuo é a chave para o crescimento. Estou sempre à procura de novos desafios para expandir meus horizontes no vasto mundo da programação.
+💡 I firmly believe that continuous learning is the key to growth. I'm always on the lookout for new challenges to broaden my horizons in the vast world of programming.
 
-🚀 Além do código, meu coração bate forte por música, viagens, boas histórias e jogos. Estou sempre disposto a aprender algo novo e ansioso para compartilhar meu conhecimento. Sinta-se em casa no meu cantinho digital, onde a curiosidade e a criatividade se encontram!
+🚀 Besides code, my heart beats for music, travel, good stories, and games. I'm always eager to learn something new and excited to share my knowledge. Feel at home in my digital corner, where curiosity and creativity meet!
 
-Vamos juntos construir algo incrível! 🌟
+Let's build something amazing together! 🌟
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosEduardoBr04&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
