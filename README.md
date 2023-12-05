@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section-header"/>
 
 ### Oi, eu sou Eduardo, mas pode me chamar de Kdu!  👋🏼😊
 
@@ -31,3 +32,5 @@
 🚀 Além do código, meu coração bate forte por música, viagens, boas histórias e jogos. Estou sempre disposto a aprender algo novo e ansioso para compartilhar meu conhecimento. Sinta-se em casa no meu cantinho digital, onde a curiosidade e a criatividade se encontram!
 
 Vamos juntos construir algo incrível! 🌟
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosEduardoBr04&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
