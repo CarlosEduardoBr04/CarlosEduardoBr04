@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zEduardoBr4z)
 
 ![CarlosEduardoBr04 GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoBr04&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoBr04&layout=compact)
 
 ### Tecnologias que Possuo Conhecimento
 
