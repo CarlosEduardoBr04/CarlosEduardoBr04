@@ -57,7 +57,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-  --- ### 🏆 GitHub Profile Trophy:
+  🏆 GitHub Profile Trophy:
 
 <p align="center">
   <a
