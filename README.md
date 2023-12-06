@@ -2,7 +2,7 @@
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section-header"/>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=7000&pause=1000&random=false&width=500&lines=Hello%2C+welcome+to+my+profile!;+I'm+Eduardo%2C+but+you+can+call+me+Kdu!;I'm+from+Brazil+and+love+technologies.)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=7000&pause=1000&random=false&width=500&lines=Hello%2C+welcome+to+my+profile!;+I'm+Eduardo%2C+but+you+can+call+me+Kdu!;Specializing+in+backend+development.)](https://git.io/typing-svg)
 
   Welcome to my profile!
 
