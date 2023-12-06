@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=7000&pause=1000&random=false&width=500&lines=Hello%2C+welcome+to+my+profile!;+I'm+Eduardo%2C+but+you+can+call+me+Kdu!;I'm+from+Brazil+and+love+technologies.)](https://git.io/typing-svg)
 
-Hello, welcome to my profile!
+Welcome to my profile!
 
-### Hello, I'm Eduardo, but you can call me Kdu! 👋🏼😊
+### I'm Eduardo, but you can call me Kdu! 👋🏼😊
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kdu_almeida06/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
