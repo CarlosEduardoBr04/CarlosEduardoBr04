@@ -15,32 +15,36 @@
 
 <table>
   <tr>
-    <td width="33%">
+    <td colspan="2" align="center">
+      <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosEduardoBr04&theme=dark&hide_border=false"
+        alt="Github streak stats"
+        height="200px"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoBr04&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
-        height="300px"
+        height="200px"
       />
     </td>
-    <td width="33%">
+    <td width="50%">
       <img
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoBr04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Top Languages"
-        height="300px"
-      />
-    </td>
-    <td width="33%">
-      <img
-        align="right"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosEduardoBr04&theme=dark&hide_border=false"
-        alt="Github streak stats"
-        height="300px"
+        height="200px"
       />
     </td>
   </tr>
 </table>
+
+
 
 
 
