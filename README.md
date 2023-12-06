@@ -29,7 +29,7 @@ Welcome to my profile!
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-👋 Hello, I'm Eduardo, also known as Kdu! I'm immersed in the technology universe, currently studying Multiplatform Software Development at college, and I'm passionate about every line of code I write.
+👋 I'm immersed in the technology universe, currently studying Multiplatform Software Development at college, and I'm passionate about every line of code I write.
 
 💡 I firmly believe that continuous learning is the key to growth. I'm always on the lookout for new challenges to broaden my horizons in the vast world of programming.
 
