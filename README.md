@@ -25,7 +25,14 @@
     </td>
   </tr>
   <tr>
-    
+    <td width="50%">
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoBr04&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+        height="200px"
+      />
+    </td>
     <td width="50%">
       <img
         align="center"
