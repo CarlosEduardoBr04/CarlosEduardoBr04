@@ -81,9 +81,9 @@
 
 ---
 
-  👋 I'm immersed in the technology universe, currently studying Multiplatform Software Development at college, and I'm passionate about every line of code I write.
+  👋 Immersed in the technology universe, currently studying Multiplatform Software Development at college, and passionate about every line of code I write.
 
-  💡 I firmly believe that continuous learning is the key to growth. I'm always on the lookout for new challenges to broaden my horizons in the vast world of programming.
+  💡 I firmly believe that continuous learning is the key to growth. Always on the lookout for new challenges to broaden my horizons in the vast world of programming.
 
   🚀 Besides code, my heart beats for music, travel, good stories, and games. I'm always eager to learn something new and excited to share my knowledge. Feel at home in my digital corner, where curiosity and creativity meet!
 
