@@ -44,24 +44,28 @@
   </tr>
 </table>
 
-<br />
 
-### Technologies I Have Knowledge In:
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-🏆 GitHub Profile Trophy:
+
+  <br />
+
+  ### Technologies I Have Knowledge In:
+
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![css](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+  🏆 GitHub Profile Trophy:
 
 <p align="center">
   <a
@@ -77,25 +81,27 @@
 
 ---
 
-👋 Immersed in the technology universe, currently studying Multiplatform Software Development at college, and passionate about every line of code I write.
+  👋 Immersed in the technology universe, currently studying Multiplatform Software Development at college, and passionate about every line of code I write.
 
-💡 I firmly believe that continuous learning is the key to growth. Always on the lookout for new challenges to broaden my horizons in the vast world of programming.
+  💡 I firmly believe that continuous learning is the key to growth. Always on the lookout for new challenges to broaden my horizons in the vast world of programming.
 
-🚀 Besides code, my heart beats for music, travel, good stories, and games. I'm always eager to learn something new and excited to share my knowledge. Feel at home in my digital corner, where curiosity and creativity meet!
+  🚀 Besides code, my heart beats for music, travel, good stories, and games. I'm always eager to learn something new and excited to share my knowledge. Feel at home in my digital corner, where curiosity and creativity meet!
 
-Let's build something amazing together! 🌟
+  Let's build something amazing together! 🌟
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosEduardoBr04&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosEduardoBr04&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-<p align="center">
-  <!-- Contador de visitantes atualizado para visitor-badge -->
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=CarlosEduardoBr04)
-</p>
+  <div align="center">
+    <h3><b>📍 Profile Visitor Count</b></h3>
+  </div>
+  <p align="center">
+    <img
+      src="https://profile-counter.glitch.me/CarlosEduardoBr04/count.svg"
+      alt="Ilustração do número de visitantes no perfil"
+    />
+  </p>
 
-<footer>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=footer" />
-</footer>
+  <footer>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=footer" />
+  </footer>
 </div>
