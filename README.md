@@ -77,7 +77,8 @@
 
 ---
 
-👋 Immersed in the technology universe, currently studying Multiplatform Software Development at college, and passionate about every line of code I write.
+👋 Hello, I'm Eduardo, also called Kdu!
+Passionate about tech and now graduated in Multiplatform Software Development.
 
 💡 I firmly believe that continuous learning is the key to growth. Always on the lookout for new challenges to broaden my horizons in the vast world of programming.
 
