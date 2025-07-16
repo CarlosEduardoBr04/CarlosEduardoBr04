@@ -90,10 +90,12 @@ Let's build something amazing together! 🌟
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-<p align="center">
-  <!-- Contador de visitantes atualizado para visitor-badge -->
-  (https://visitor-badge.laobi.icu/badge?page_id=CarlosEduardoBr04)
-</p>
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CarlosEduardoBr04" alt="Visitor Count" />
+</div>
+
 
 <footer>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=footer" />
